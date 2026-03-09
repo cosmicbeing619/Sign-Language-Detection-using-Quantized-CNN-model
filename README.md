@@ -154,6 +154,3 @@ Advantages:
 - NumPy
 - Matplotlib
 
----
-
-# Repository Structure
